@@ -1,0 +1,17 @@
+Fitter Status : Successful - Wed Jan 01 23:23:55 2020
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : signal_var
+Top-level Entity Name : signal_var
+Family : Stratix II
+Device : EP2S30F484C3
+Timing Models : Final
+Logic utilization : < 1 %
+    Combinational ALUTs : 1 / 27,104 ( < 1 % )
+    Dedicated logic registers : 0 / 27,104 ( 0 % )
+Total registers : 0
+Total pins : 3 / 343 ( < 1 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 1,369,728 ( 0 % )
+DSP block 9-bit elements : 0 / 128 ( 0 % )
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 2 ( 0 % )
